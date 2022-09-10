@@ -1,0 +1,35 @@
+h1 {
+    color: hsl(218, 44%, 22%);
+    margin-right: 15px;
+    margin-left: 21px;
+}
+p {
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-bottom: 40px;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+    width: 100%;
+}
+.attribution {
+    /*text-align: center;*/
+}
+div.background-qr {
+    width: 17%;
+    border: 1px solid #e1e1ee;
+    background-color: hsl(0, 0%, 100%);
+    margin: 12% auto;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.background-qr img {
+    margin-top: 10px;
+    max-width: 90%;
+    border-radius: 10px;
+}
